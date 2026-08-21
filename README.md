@@ -132,22 +132,6 @@ Flask + React tool auditing HTTP response headers (CSP, HSTS, X-Frame-Options) a
 
 <br>
 
-## `[TELEMETRY]` GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=drishtilalwani-dev&show_icons=true&theme=react&hide_border=true&bg_color=0A0D10&title_color=F5A623&icon_color=5EEAD4&text_color=E4E9ED" height="165" alt="github stats" />
-<img src="https://streak-stats.demolab.com/?user=drishtilalwani-dev&theme=react&hide_border=true&background=0A0D10&ring=F5A623&fire=5EEAD4&currStreakLabel=F5A623" height="165" alt="streak stats" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=drishtilalwani-dev&layout=compact&theme=react&hide_border=true&bg_color=0A0D10&title_color=F5A623&text_color=E4E9ED" height="165" alt="top languages" />
-
-</div>
-
-<br>
 
 <div align="center">
 
@@ -155,10 +139,11 @@ Flask + React tool auditing HTTP response headers (CSP, HSTS, X-Frame-Options) a
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalwanidrishti)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drishtilalwani2006@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1A1410,50:2B1D12,100:1A1410&height=100&section=footer&text=Thank%20You!&fontColor=F5A623&fontSize=28&fontAlignY=75" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1A1410,50:2B1D12,100:1A1410&height=90&section=footer&text=Thank%20You!&fontColor=F5A623&fontSize=28&fontAlignY=75" width="100%" alt="footer" />
 
 <sub><code>[EOF]</code> thanks for reading the log — reach out anytime</sub>
 
