@@ -36,7 +36,7 @@
 
 <br>
 
-## `[PROFILE]`- Analyst Details
+## `[PROFILE]` Analyst Details
 
 | Field | Value |
 |---|---|
@@ -49,13 +49,13 @@
 
 <br>
 
-## `[STACK-A]`- Development Tools
+## `[STACK-A]` Development Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,flask,js,react,nodejs,html,css,c,firebase&theme=dark" alt="dev stack" />
 </p>
 
-## `[STACK-B]`- Security &amp; SOC Tools
+## `[STACK-B]` Security &amp; SOC Tools
 
 <p align="center">
 
@@ -71,7 +71,7 @@
 
 <br>
 
-## `[ALERTS]`- Flagged Projects
+## `[ALERTS]` Flagged Projects
 
 <table>
 <tr>
@@ -114,7 +114,7 @@ Flask + React tool auditing HTTP response headers (CSP, HSTS, X-Frame-Options) a
 
 <br>
 
-## `[LOG]`- Experience Timeline
+## `[LOG]` Experience Timeline
 
 **Unified Mentor** — Full Stack Web Developer Intern
 `Sep 2025 → Dec 2025`
@@ -124,7 +124,7 @@ Flask + React tool auditing HTTP response headers (CSP, HSTS, X-Frame-Options) a
 
 <br>
 
-## `[VERIFIED]`- Certifications
+## `[VERIFIED]` Certifications
 
 - 🎖️ Deloitte Cyber Job Simulation — Virtual Experience *(March 2026)*
 - 🎖️ TryHackMe — Jr. Security Analyst Intro *(Blue Team Path, 2026)*
@@ -132,12 +132,12 @@ Flask + React tool auditing HTTP response headers (CSP, HSTS, X-Frame-Options) a
 
 <br>
 
-## `[TELEMETRY]`- GitHub Activity
+## `[TELEMETRY]` GitHub Activity
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=drishtilalwani-dev&show_icons=true&theme=react&hide_border=true&bg_color=0A0D10&title_color=F5A623&icon_color=5EEAD4&text_color=E4E9ED" height="165" alt="github stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=drishtilalwani-dev&theme=react&hide_border=true&background=0A0D10&ring=F5A623&fire=5EEAD4&currStreakLabel=F5A623" height="165" alt="streak stats" />
+<img src="https://streak-stats.demolab.com/?user=drishtilalwani-dev&theme=react&hide_border=true&background=0A0D10&ring=F5A623&fire=5EEAD4&currStreakLabel=F5A623" height="165" alt="streak stats" />
 
 </div>
 
@@ -151,14 +151,14 @@ Flask + React tool auditing HTTP response headers (CSP, HSTS, X-Frame-Options) a
 
 <div align="center">
 
-### `[CONNECT]`- Let's Talk
+### `[CONNECT]` Let's Talk
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalwanidrishti)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drishtilalwani2006@gmail.com)
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1A1410,50:2B1D12,100:1A1410&height=100&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1A1410,50:2B1D12,100:1A1410&height=120&section=footer&text=Thank%20You!&fontColor=F5A623&fontSize=28&fontAlignY=75" width="100%" alt="footer" />
 
 <sub><code>[EOF]</code> thanks for reading the log — reach out anytime</sub>
 
